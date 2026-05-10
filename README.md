@@ -1,8 +1,8 @@
-# Mintlify 2026 — Accurate Homepage Clone
+# Mintlify 2026 —  Homepage Clone
 
 Desktop-first pixel-accurate recreation of mintlify.com (2026), built with HTML + CSS only.
 
-## What Was Fixed (vs Previous Version)
+## What Was Fixed
 
 - ✅ **Hero background** — Full aurora/northern lights effect with green/teal light pillars, stars, mountain silhouette
 - ✅ **Hero form** — Email input + "Start now" white pill button side-by-side (not separate)
